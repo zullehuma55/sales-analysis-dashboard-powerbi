@@ -57,4 +57,10 @@ The West region leads overall sales performance.
 Sales show consistent growth across recent years.
 Some products generate high sales but relatively lower profit margins, indicating potential pricing or cost optimization opportunities.
 
+🚀 How to Use
+Download the .pbix file
+Open using Power BI Desktop
+Explore the interactive dashboard using filters and slicers.
 
+📬 Contact
+If you have feedback or collaboration opportunities, feel free to connect.
